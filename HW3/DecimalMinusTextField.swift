@@ -9,7 +9,7 @@ import UIKit
 
 /**
     An extension to UITextField that augments the standard decimal keypad with
-    a minus button and a done button.  The implementation was inspired by this 
+    a minus button and a done button.  The implementation was inspired by this
     particular question/answer thread:
         http://stackoverflow.com/questions/9613109/uikeyboardtypedecimalpad-with-negative-numbers
 */
